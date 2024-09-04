@@ -8,5 +8,3 @@ COLUMNS:
   reading_score                 :   int64 
   writing_score   :   int64  
 
-TARGET_NAME:
-    name: math_score
